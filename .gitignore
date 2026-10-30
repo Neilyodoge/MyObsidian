@@ -1,0 +1,11 @@
+# Obsidian local configuration; keep the action note heading snippet.
+/.obsidian/*
+!/.obsidian/snippets/
+/.obsidian/snippets/*
+!/.obsidian/snippets/action-note-headings.css
+
+# Local trash and OS metadata.
+/.trash/
+.DS_Store
+Thumbs.db
+Desktop.ini
